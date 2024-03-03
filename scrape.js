@@ -2,8 +2,8 @@
 import { gotScraping } from 'got-scraping';
 import * as fs from "fs";
 
-import { years } from "./constants.js";
-import { teams } from "./constants.js";
+import { years } from './constants.js';
+import { teams } from './constants.js';
 
 
 const url = (team, year) => {

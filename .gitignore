@@ -3,3 +3,5 @@
 *.DS_Store
 
 data_template.json
+
+/data/pages
